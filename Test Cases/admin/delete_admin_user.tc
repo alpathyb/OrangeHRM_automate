@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>deleting admin account after the search from admin page</description>
+   <name>delete_admin_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1beaeefd-cf93-434a-98eb-09494b82aeeb</testCaseGuid>
+</TestCaseEntity>

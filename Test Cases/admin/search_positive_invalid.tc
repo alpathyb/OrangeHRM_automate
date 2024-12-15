@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search invalid data in the search feature</description>
+   <name>search_positive_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9505f1c-841b-4788-8174-1863ec863d06</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test search feature by user role</description>
+   <name>search_positive_userrole</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>432c07b8-c9a0-4228-84a5-70f3b6111fff</testCaseGuid>
+</TestCaseEntity>

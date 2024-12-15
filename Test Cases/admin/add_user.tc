@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>adding user before testing search</description>
+   <name>add_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cedbe12d-7084-408c-ae77-59bcf4009680</testCaseGuid>
+</TestCaseEntity>

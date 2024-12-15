@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login with empty username and password</description>
+   <name>login_negative_empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55c9cc99-beaf-4d48-82cc-bc18afbcf4f1</testCaseGuid>
+</TestCaseEntity>

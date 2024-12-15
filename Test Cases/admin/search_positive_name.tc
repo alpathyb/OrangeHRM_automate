@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search people by name</description>
+   <name>search_positive_name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9624e6f-8d70-4728-a9f5-d638f35cce96</testCaseGuid>
+</TestCaseEntity>

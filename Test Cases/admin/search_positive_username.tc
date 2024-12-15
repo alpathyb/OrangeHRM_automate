@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test search by username</description>
+   <name>search_positive_username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2cb2d27-6d72-4a3e-8ae7-2a5d2ca1521e</testCaseGuid>
+</TestCaseEntity>

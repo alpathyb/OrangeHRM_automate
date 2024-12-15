@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login by invalid username and valid password</description>
+   <name>login_negative_invalid_username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20504454-af05-4200-8f14-38f871b9d002</testCaseGuid>
+</TestCaseEntity>

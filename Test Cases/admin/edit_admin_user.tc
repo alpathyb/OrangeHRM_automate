@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>editing admin account after the search in the admin page</description>
+   <name>edit_admin_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>118e94c1-9ffd-407f-be98-1295f34e20a4</testCaseGuid>
+</TestCaseEntity>
