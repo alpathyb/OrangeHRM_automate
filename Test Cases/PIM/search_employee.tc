@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search employee in pim page</description>
+   <name>search_employee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53ab7ebb-d0a8-4213-b0ae-d94d7b2ea757</testCaseGuid>
+</TestCaseEntity>

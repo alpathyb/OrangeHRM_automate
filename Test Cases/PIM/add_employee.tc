@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add employee in PIM page</description>
+   <name>add_employee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a86e0fb1-fcf4-4aa1-9f07-bdcb9bfb370a</testCaseGuid>
+</TestCaseEntity>

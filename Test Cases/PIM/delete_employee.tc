@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>delete employee in pim page</description>
+   <name>delete_employee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5650504-ae54-47e7-9f87-e6957343b7d0</testCaseGuid>
+</TestCaseEntity>
